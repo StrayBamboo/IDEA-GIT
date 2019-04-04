@@ -6,6 +6,9 @@ public class Demo {
         System.out.println("shot");
         System.out.println("shot");
 
+        System.out.println("wwwwwwwwwwww");
+        System.out.println("wwwwwwwwwwww");
+        System.out.println("wwwwwwwwwwww");
 
     }
 }
